@@ -1,4 +1,4 @@
-# First App
+# Lab1 
 ### App screenshot
 ![](./overview(portrait).jpg)
 ![](./Toast.jpg)
